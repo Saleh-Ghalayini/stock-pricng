@@ -21,4 +21,4 @@ profit_result = max_profit([5,2,7,3,10,9])
 #printing the highest profit obtained from the function
 print(f"the highest profit obtained is {profit_result}")
 
-#i wanted a project with more steps in order to increase the number of pushes but after i finished it i realized that it was too simple for that
+#if the project was bigger and more complex it would've taken more steps and git pushes to complete
